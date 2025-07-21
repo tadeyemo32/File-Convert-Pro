@@ -1,0 +1,3 @@
+([('FileConverter',
+   '/Users/danieladeyemo/Programming/file converter/dist/FileConverter',
+   'EXECUTABLE')],)
