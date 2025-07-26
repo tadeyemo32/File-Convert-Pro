@@ -1,6 +1,6 @@
 # FileConverter Pro
 
-FileConverter Pro is a modern, cross-platform desktop application for converting images, videos, and documents between popular formats. It combines a high-performance native C++ backend with a polished PyQt5 GUI to deliver fast conversions and an intuitive user experience. It supports a wide range of file types and is designed for users who need a reliable and efficient conversion tool on macOS, Windows, and Linux.
+FileConverter Pro is a modern, cross-platform desktop application for converting images, videos, and documents between popular formats.
 ![App Icon](/assets/1.png)
 ---
 
