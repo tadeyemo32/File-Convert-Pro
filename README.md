@@ -50,6 +50,8 @@ FileConverter Pro is a modern, cross-platform desktop application for converting
 | .docx        | pdf                                    |
 
 ---
+**⚠️ Current Version Status: Not Working**  
+The project is currently broken / under refactoring.
 
 ## Build Instructions
 
